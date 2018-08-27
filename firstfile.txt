@@ -1,1 +1,0 @@
-this is first file to go to consul-repo to test for git2consul
